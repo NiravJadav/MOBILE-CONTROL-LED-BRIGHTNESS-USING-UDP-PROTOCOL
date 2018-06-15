@@ -1,4 +1,4 @@
-# LED-BRIGHTNESS-CONTROL-USING-UDP
+# LED-BRIGHTNESS-CONTROL-USING-UD
 This repository has an example file to control brightness of LED  using Android Application using UDP Protocol
 
 ## HARDWARE REQUIRED
