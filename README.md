@@ -24,6 +24,8 @@ This Project is designed to control brightness of four leds using Andorid Moblie
 #### Step-2
    - Paste a [Processing_code](/LED_BRIGHTNESS_PROCESSING_UDP.pde) to Processing Softwer.
    - Select Android Mode and run it to Your Device. 
+   - This is how android app look Like.
+   ![AndroidApp](/apppic.jpeg)
   
   
 #### Step-3
