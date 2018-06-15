@@ -14,17 +14,17 @@ This repository has an example file to control brightness of LED  using Android 
 
 #### Step-1
 
-      First , Make all connection which is shown in Schematic.  
+  First , Make all connection which is shown in Schematic.  
 ![Schematic](/Schematic.png)
 
 #### Step-2
-     - Paste a [Processing_code](/LED_BRIGHTNESS_PROCESSING_UDP.pde) to Processing Softwer.
-     - Select Android Mode and run it to Your Device. 
+   - Paste a [Processing_code](/LED_BRIGHTNESS_PROCESSING_UDP.pde) to Processing Softwer.
+   - Select Android Mode and run it to Your Device. 
   
   
 #### Step-3
-      - Paste an [Arudino_code](/LED_BRIGHTNESS_ARDUINO_UDP.ino) to Arduino IDE.
-      - Select Board NodeMcu and apropriate COM Port and Upload it.
+   - Paste an [Arudino_code](/LED_BRIGHTNESS_ARDUINO_UDP.ino) to Arduino IDE.
+   - Select Board NodeMcu and apropriate COM Port and Upload it.
   
   
   
