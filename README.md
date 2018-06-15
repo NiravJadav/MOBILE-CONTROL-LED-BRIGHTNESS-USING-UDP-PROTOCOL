@@ -1,6 +1,10 @@
 # LED-BRIGHTNESS-CONTROL-USING-UDP
 This repository has an example file to control brightness of LED  using Android Application using UDP Protocol
 
+## Introduction
+
+This Project is designed to control brightness of four leds using Andorid Moblie Phone.For this We use UDP Protocol to transmit data (Packet) from Android Phone to Nodemcu where Leds are Connected.
+
 ## HARDWARE REQUIRED
 
 - Nodemcu Board 
