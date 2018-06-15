@@ -1,6 +1,10 @@
-#include<ESP8266WiFi.h>
-#include<WiFiUDP.h>
+/*
+  Student Name : Nirav Jadav (E.C. SEM-5 , Marwadi Education Foundation Group of Instituion , Rajkot.   )
+  Guided by : Prof. Ravi Butani (E.C. Departmet , Marwadi Education Foundation Group of Instituion , Rajkot. )
+*/
 
+#include<ESP8266WiFi.h> // esp8266wifi library added
+#include<WiFiUDP.h> // wifiudp library addded
 
 
 WiFiUDP myudp;
@@ -82,6 +86,7 @@ analogWrite(led2 , LED[2]*2.55);
 analogWrite(led3 , LED[3]*2.55);
 
 }
+
 
 void chararray_2_intarray(char* _in, int* _out)
 {
